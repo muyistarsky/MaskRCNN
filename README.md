@@ -12,6 +12,6 @@ year = {2022},
 publisher = {Github},
 journal = {Github repository},
 doi = {1703.06870v3},
-howpublished = {\url{}}
+howpublished = {\url{https://github.com/muyistarsky/MaskRCNN}}
 }
 ```
