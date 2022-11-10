@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.gitignore
+
+.idea/
+.ipynb_checkpoints/
+ckpt_0/
+rank_0/
+split_coco.py
+results.pkl.bbox.json
+results.pkl.segm.json
+MaskRCNN.py
